@@ -1,0 +1,31 @@
+:icons: font
+:toc:
+:appendix-caption: App
+:numbered:
+
+= Technical design de la aplicación
+
+
+
+Aplicación web para planeación y gestión de recursos.
+
+
+
+== Component description
+include::technical-design/_component_description.adoc[]
+
+== Introduction
+include::technical-design/_introduction.adoc[]
+
+== System overview
+include::technical-design/_system_overview.adoc[]
+
+[preface]
+== Preface
+include::technical-design/_preface.adoc[]
+
+== System context
+include::technical-design/_system_context.adoc[]
+
+== System design
+include::technical-design/_system_design.adoc[]
